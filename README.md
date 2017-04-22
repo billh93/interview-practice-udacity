@@ -66,5 +66,5 @@ The dice function creates 2 instances of a dice and for each dice the total vari
 Their are many things I would like to accomplish in my career as a full stack web developer but at the top of my list one that will make me a better programmer is mastering the art of Javascript. Why Javascript? It is the forefront of the web industry as it has been around since the inception of the modern internet and it's only getting bigger and better as everything is completely accessible with javascript. Frontend and backend for websites, internet of things, robotics etc. Another thing I would like to accomplish as a full stack web developer is to create/work on something that millions/billions of people will use. Something that helps and changes the world and seeing my code a part of it is something that I can only dream of.
 
 ## Resources Used
-1.) http://stackoverflow.com/questions/33069476/simulating-rolling-2-dice-in-python
-2.) https://www.toptal.com/security/10-most-common-web-security-vulnerabilities
+1. http://stackoverflow.com/questions/33069476/simulating-rolling-2-dice-in-python
+2. https://www.toptal.com/security/10-most-common-web-security-vulnerabilities
